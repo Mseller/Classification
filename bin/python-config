@@ -1,4 +1,4 @@
-#!/Users/martinseller/Documents/Programing/Python/TensorFlowProject/bin/python
+#!/Users/martinseller/Documents/Programing/Python/Classification/bin/python
 
 import sys
 import getopt

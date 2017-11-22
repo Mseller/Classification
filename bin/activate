@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/martinseller/Documents/Programing/Python/TensorFlowProject"
+VIRTUAL_ENV="/Users/martinseller/Documents/Programing/Python/Classification"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
